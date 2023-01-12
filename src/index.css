@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  text-decoration: none;
+  list-style: none;
+  outline: none;
+  font-family: Roboto-Font;
+  background:  #98a2e7;
+}
+
+@font-face {
+  font-family: Roboto-Font;
+  src: url(../public/fonts/Roboto-Regular/Roboto-Regular.eot);
+  src: url(../public/fonts/Roboto-Regular/Roboto-Regular.ttf) format('truetype'),
+       url(../public/fonts/Roboto-Regular/Roboto-Regular.woff) format('woff'),
+       url(../public/fonts/Roboto-Regular/Roboto-Regular.woff2) format('woff2'),
+       url(../public/fonts/Roboto-Regular/Roboto-Regular.svg) format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+}
