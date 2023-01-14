@@ -1,0 +1,10 @@
+.artist-card  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.item {
+    color: rgb(255, 0, 0, .5);
+}
