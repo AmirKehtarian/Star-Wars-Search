@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useEffect } from 'react'
+import React, { useState, useCallback } from 'react'
 import ActionAreaCard from '../ActionAreaCard/ActionAreaCard'
 import Search from '../Search/Search'
 import './ArtistName.css'
